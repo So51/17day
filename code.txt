@@ -1,0 +1,13 @@
+var Day = "Wednesday"
+switch (Day){
+  case "Sunday" :
+  case "Monday" :
+  case "Teusday" : 
+  case "Wednesday" :
+  case "Thursday" :
+    document.write("it is work days .");
+    break ;
+    defult ; 
+   document.write("happy weekend. ") 
+    break 
+}
